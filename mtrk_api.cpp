@@ -8,10 +8,10 @@
 
 using namespace SEQ_NAMESPACE;
 
-
+// this is a new test
 mtrk_sections::mtrk_sections()
 {
-    loadedMeasurementID=0;
+    loadedMeasurementID=0; 
     clear();
 }
 
