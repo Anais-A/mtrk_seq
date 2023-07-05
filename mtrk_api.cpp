@@ -8,7 +8,6 @@
 
 using namespace SEQ_NAMESPACE;
 
-// this is a new test
 mtrk_sections::mtrk_sections()
 {
     loadedMeasurementID=0; 
